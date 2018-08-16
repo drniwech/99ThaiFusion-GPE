@@ -1,0 +1,3 @@
+# Module _9thaifusion
+# RPC service class, partial path of RPC policy file
+org.ekspertsoft.apps.thaifusion.client.GreetingService, 571D9C68B537EC581FE3E074221BE326.gwt.rpc

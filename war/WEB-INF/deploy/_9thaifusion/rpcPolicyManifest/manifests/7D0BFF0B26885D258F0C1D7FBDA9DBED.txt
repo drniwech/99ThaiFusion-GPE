@@ -1,0 +1,2 @@
+serviceClass: org.ekspertsoft.apps.thaifusion.client.GreetingService
+path: 571D9C68B537EC581FE3E074221BE326.gwt.rpc
